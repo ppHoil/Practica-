@@ -14,3 +14,4 @@ git clone <URL_DEL_REPO>
 cd git-exam
 git checkout -b feature/<tu_nombre>
 ```
+Git es una herramienta poderosa
