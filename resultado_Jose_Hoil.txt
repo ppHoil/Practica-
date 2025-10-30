@@ -1,0 +1,9 @@
+* bb9334a Commit para prueba de reset
+*   64f18a3 Merge branch 'feature/JoseHoil'
+|\  
+| * 2f6f910 Cambio desde Jose Hoil
+| * 5c014c4 Aregada frase sobre Git en README
+| * 40f7abe Agrega Jose Hoil a la lista de participantes
+* | 31c5500 Cambio desde main
+|/  
+* 85c59ca Commit inicial para prueba de Git
